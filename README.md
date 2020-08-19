@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jia Yang, an Front-end developer live in China.
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/Yangjia23/Yangjia23/blob/master/images/portal.jpeg)
 
 
 Skills: Vue JS / REACT / JS / HTML / CSS
